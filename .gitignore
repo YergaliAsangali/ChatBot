@@ -1,0 +1,18 @@
+# Python
+__pycache__
+
+# IDE
+.vscode/
+
+# Auth
+credentials.json
+TheExpenseTrackerBot-*.json
+
+# Environment variables
+.env
+
+# Coverage
+.coverage
+
+.pytest_cache/
+.DS_Store
